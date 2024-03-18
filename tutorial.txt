@@ -1,0 +1,4 @@
+1. Firebase React Course for Beginners - Learn Firebase V9+ in 2 Hours
+Video : https://www.youtube.com/watch?v=2hR-uWjBAgw&t=3371s
+GitHub : https://github.com/machadop1407/react-firebase-course
+
